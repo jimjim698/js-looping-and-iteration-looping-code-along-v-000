@@ -1,6 +1,9 @@
 // Code your solutions in this file
 
 
-function printBadges(){
-  
+function printBadges(badges){
+  for (let i = 0; i< badges.length; i++){
+    console.log(`${i}`)
+  }
+  return badges 
 }
