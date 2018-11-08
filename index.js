@@ -3,7 +3,7 @@
 
 function printBadges(badges){
   for (let i = 0; i< badges.length; i++){
-    console.log(`Welcome ${badges[i]}`)
+    console.log(`Welcome ${badges[i]}`);
   }
-  return badges 
+  return badges; 
 }
