@@ -8,7 +8,7 @@ function printBadges(badges){
   return badges; 
 }
 
-function TailsneverFails(){
+function tailsNeverFails(){
   let i = 0
   while(Math.random()>=0.5){
     i++
